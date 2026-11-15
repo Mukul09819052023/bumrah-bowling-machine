@@ -6,9 +6,11 @@ This project explores the concept of a cricket bowling machine designed around B
 
  Live Demo-
 
-View Project Demo
+View Project Demo -
 
-Note: The demo link will work once GitHub Pages is enabled and the main HTML file is named index.html.
+[**Click here to view the Bumrah-Style Bowling Machine Demo**](https://mukul09819052023.github.io/bumrah-bowling-machine/)
+
+
 
  Project Overview-
 
